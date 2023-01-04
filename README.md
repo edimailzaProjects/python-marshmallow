@@ -11,7 +11,7 @@ Em dezembro de 2022
 
 ```shell
 git clone git@github.com:edimailzaProjects/python-marshmallow.git
-cd alura-python-basico
+cd python-marshmallow
 ```
 
 ### Rodar esse projeto
