@@ -3,7 +3,7 @@ Noções do que consegui anotar e acompanhar na internet para aprender a seriali
 Em dezembro de 2022
 
 ## Para executar
-* Ter o [Python](https://www.python.org/) instalado (version 3.11 ou superior);
+* Ter o [Python](https://www.python.org/) instalado (versão 3.11 ou superior);
 
 ## Passos
 
